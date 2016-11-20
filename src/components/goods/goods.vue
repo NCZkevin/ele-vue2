@@ -1,5 +1,12 @@
 <template>
-  <div>i an goods</div>
+  <div>
+    <div class="ullist">
+
+    </div>
+    <div class="">
+
+    </div>
+  </div>
 </template>
 
 <style>

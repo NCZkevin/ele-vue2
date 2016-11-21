@@ -12,7 +12,8 @@
   "dependencies": {
     "vue": "^2.0.1",
     "vue-router": "^2.0.3",
-    "vue-resource": "^1.0.1"
+    "vue-resource": "^1.0.1",
+    "better-scroll": "^0.1.7"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
@@ -27,6 +28,7 @@
     "connect-history-api-fallback": "^1.1.0",
     "css-loader": "^0.25.0",
     "stylus-loader": "^2.1.1",
+    "stylus": "^0.52.4",
     "eslint": "^3.7.1",
     "eslint-friendly-formatter": "^2.0.5",
     "eslint-loader": "^1.5.0",
